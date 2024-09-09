@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/tal-mat/usePopcorn.git
-   cd movie-tracker-app
+   cd usePopcorn
 
 2. **Install dependencies:**
 
